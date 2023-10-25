@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{685CD166-15AF-4501-A2EE-BAC4161191EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{685CD166-15AF-4501-A2EE-BAC4161191EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{C5AA843F-E0DD-400A-BF71-9BE52B03EE25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditionals\Conditionals.csproj", "{C5AA843F-E0DD-400A-BF71-9BE52B03EE25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{729F5630-3B4D-4631-952E-78D1ED9732A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{729F5630-3B4D-4631-952E-78D1ED9732A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{40911644-475E-40D9-A077-2A52475B1416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{40911644-475E-40D9-A077-2A52475B1416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{27F17A5D-5F27-4E19-9957-E063CA5BC7F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{27F17A5D-5F27-4E19-9957-E063CA5BC7F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{2C0DE7EE-2B57-4E4A-BEF8-79AD0D259B48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{2C0DE7EE-2B57-4E4A-BEF8-79AD0D259B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denemeGit", "denemeGit\denemeGit.csproj", "{62E2A5FE-D9B3-4E7A-B164-EF65FD4C7ADF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2C0DE7EE-2B57-4E4A-BEF8-79AD0D259B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C0DE7EE-2B57-4E4A-BEF8-79AD0D259B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C0DE7EE-2B57-4E4A-BEF8-79AD0D259B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E2A5FE-D9B3-4E7A-B164-EF65FD4C7ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E2A5FE-D9B3-4E7A-B164-EF65FD4C7ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E2A5FE-D9B3-4E7A-B164-EF65FD4C7ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E2A5FE-D9B3-4E7A-B164-EF65FD4C7ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
